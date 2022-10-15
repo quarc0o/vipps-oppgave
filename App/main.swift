@@ -12,7 +12,7 @@ SwiftUIApp.main()
 #elseif UIKIT
 import UIKit
 
-a_ = UIApplicationMain(
+_ = UIApplicationMain(
     CommandLine.argc,
     CommandLine.unsafeArgv,
     nil,
